@@ -1,0 +1,7 @@
+# Ignore sensitive credentials
+credentials.txt
+*.env
+.env
+*.pem
+*.key
+secrets/
